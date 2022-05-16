@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saifudin Nur Khamdani</title>
+    <link>https://saifudinnurkhamdani.github.io/id/</link>
+    <description>Recent content on Saifudin Nur Khamdani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <managingEditor>saifudinnurkhamdani77@gmail.com (Saifudin)</managingEditor>
+    <webMaster>saifudinnurkhamdani77@gmail.com (Saifudin)</webMaster>
+    <copyright>Karya ini dilisensikan di bawah Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://saifudinnurkhamdani.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang</title>
+      <link>https://saifudinnurkhamdani.github.io/id/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>saifudinnurkhamdani77@gmail.com (Saifudin)</author>
+      <guid>https://saifudinnurkhamdani.github.io/id/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
